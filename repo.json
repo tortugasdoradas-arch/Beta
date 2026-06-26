@@ -317,7 +317,7 @@
       "category": "Ports",
       "binary": "/switch/hl2/hl2.nro",
       "filesize": 2826231,
-      "extracted": 596648,
+      "extracted": 4500000,
       "updated": "20/05/2026",
       "screens": 5
     },
@@ -474,8 +474,8 @@
       "extracted": 420227,
       "updated": "20/05/2026",
       "screens": 5
-    {
     },
+    {
       "name": "BULLY",
       "title": "Bully: Anniversary Edition",
       "author": "givethesourceplox",
