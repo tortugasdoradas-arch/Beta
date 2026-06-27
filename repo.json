@@ -575,6 +575,23 @@
       "extracted": 270092,
       "updated": "20/05/2026",
       "screens": 5
+    },
+    {
+      "name": "LEGOFORCE",
+      "title": "Lego Star Wars The Force Awakens",
+      "author": "NaGaa",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "LEGO Star Wars: The Force Awakens adapta fielmente la experiencia, ofreciendo la aventura completa del Episodio VII combinada con un humor clásico y niveles exclusivo\n\nDestaca por sus excelentes gráficos, gran rejugabilidad y variedad de personajes, aunque su exigente calidad gráfica puede demandar dispositivos de gama media-alta.\n\nJugabilidad: Incluye nuevas mecánicas como los tiroteos con cobertura y fases de vuelo mejoradas. La acción clásica de construir y resolver rompecabezas sigue intacta\n\nControl: Aunque es compatible con pantallas táctiles, la experiencia de maniobra mejora significativamente si se conecta un mando Bluetooth compatible\n\nLa campaña es extensa, con una duración aproximada de 9 a 10 horas para completar la historia principal. Los mundos son amplios y el fan service es excelente.\n\nNOTA:\nLa primera vez que abran el juego el mando no sera detectado\nCierren la aplicacion y abran de nuevo y ya detectara los mandos\nLos botones A y B estan invertidos para aceptar y cancelar, tenganlo pendiente\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/tortugasdoradas-arch/Beta/main",
+      "zip_url": "https://github.com/tortugasdoradas-arch/Repo_2/releases/download/Primer/LEGOFORCE.zip",
+      "license": "Español - Multi Idioma",
+      "category": "Ports",
+      "binary": "/switch/lswtfa/lswtfa_nx.nro",
+      "filesize": 684676,
+      "extracted": 1213091,
+      "updated": "20/05/2026",
+      "screens": 5
     }
   ]
 }
