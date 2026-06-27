@@ -524,6 +524,57 @@
       "extracted": 3005543,
       "updated": "20/05/2026",
       "screens": 5
+    },
+    {
+      "name": "TALEYELLOW",
+      "title": "Undertale Yellow",
+      "author": "TeamUTY - Imojoughan Brahim",
+      "version": "1.0.1",
+      "description": "Port Gamemaker PC",
+      "details": "Undertale Yellow es uno de los mejores fangames de la historia, logrando capturar a la perfección la esencia, el humor y la nostalgia del juego original de Toby Fox\n\nHistoria coherente: Controlas a Clover, el humano del alma amarilla (Justicia), expandiendo el lore clásico de forma brillante.\n\nBanda sonora magistral: Cuenta con más de 100 temas nuevos que emulan perfectamente el estilo musical de Toby Fox.\n\nCombate renovado: Añade mecánicas únicas de disparo al clásico sistema de esquivar patrones de balas.\n\nRutas rejugables: Mantiene las tres rutas principales (Pacifista, Neutral y Genocida) con jefes y finales memorables\n\nDificultad elevada: Algunos jefes finales de las rutas Pacifista y Genocida son notablemente más difíciles que los del juego original.\n\nNo es canon estricto: Aunque encaja de forma excelente con el inicio de Undertale, se toma ciertas libertades creativas con personajes como Flowey\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nLa descarga incluye un NSP que se guardará en la carpeta Descargas en la raíz de tu sd, después de descargar, instala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta descargas en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo\n\n(Después de la instalación y que el juego funcione puedes recuperar espacio usando la opcion borrar desde este programa, o puedes borrar manualmente el nsp que esta en la carpeta descargas)",
+      "url": "https://raw.githubusercontent.com/tortugasdoradas-arch/Beta/main",
+      "zip_url": "https://github.com/tortugasdoradas-arch/Beta/releases/download/Archivos/TALEYELLOW.zip",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "none",
+      "filesize": 262644,
+      "extracted": 262801,
+      "updated": "20/05/2026",
+      "screens": 5
+    },
+    {
+      "name": "TALESHADES",
+      "title": "Undertale Yellow: Shades of Justice",
+      "author": "ZenderTroop - Imojoughan Brahim - JGBH",
+      "version": "1.0.3",
+      "description": "Port Gamemaker PC",
+      "details": "Undertale Yellow: Shades of Justice es un mod expansivo del popular fangame Undertale Yellow\n\nEste título añade un sistema integral de acompañantes, nuevas interacciones dinámicas con los personajes, mecánicas de combate mejoradas y sesiones de hangout (quedadas) para profundizar en las relaciones\n\nSistema de Acompañantes: A diferencia del juego base, personajes como Dalv y Martlet te acompañan y participan activamente durante los combates y las exploraciones (como en Snowdin y las Dunas).\n\nMás contenido interactivo: Cuenta con animaciones fluidas, mecánicas únicas (como usar una armónica) y opciones de diálogo más amplias.\n\nEventos y Hangouts: Tras ciertos combates clave (como derrotar a Starlo), puedes volver para pasar el rato con tus compañeros, lo que añade rejugabilidad y un mayor desarrollo de los personajes.\n\nRol de Flowey: Algunos jugadores señalan que este mod relega a Flowey a un papel más secundario en comparación con la obra original. Esto puede afectar la fuerza emocional de la primera ruta Neutral, por lo que muchos recomiendan jugar la versión base de Undertale Yellow antes de lanzarse a Shades of Justice\n\nDificultad: El juego base ya tiene fama de ser considerablemente más difícil que el Undertale clásico\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nLa descarga incluye un NSP que se guardará en la carpeta Descargas en la raíz de tu sd, después de descargar, instala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta descargas en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo\n\n(Después de la instalación y que el juego funcione puedes recuperar espacio usando la opcion borrar desde este programa, o puedes borrar manualmente el nsp que esta en la carpeta descargas)",
+      "url": "https://raw.githubusercontent.com/tortugasdoradas-arch/Beta/main",
+      "zip_url": "https://github.com/tortugasdoradas-arch/Beta/releases/download/Archivos/TALESHADES.zip",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "none",
+      "filesize": 345170,
+      "extracted": 345220,
+      "updated": "20/05/2026",
+      "screens": 5
+    },
+    {
+      "name": "TALERED",
+      "title": "Undertale Red Yellow",
+      "author": "ZenderTroop - Imojoughan Brahim - JGBH",
+      "version": "2.1.4",
+      "description": "Port Gamemaker PC",
+      "details": "Undertale Red y Yellow es una obra maestra de la comunidad de fanáticos que combina la historia del aclamado fangame Undertale Yellow con dinámicas e interacciones expandidas que involucran al juego original\n\n.Esta versión recopila la esencia de Clover (el alma amarilla de la Justicia) y la lleva a un nuevo nivel de narrativa y jugabilidad\n\nPrecuela fiel: Sigue el viaje de Clover a través del subsuelo antes de la llegada de Frisk.\n\nExpansión emocional: Logra conectar de forma brillante las motivaciones de los humanos caídos, ofreciendo interacciones conmovedoras con Chara.\n\nDecisiones de peso: Las rutas Pacifista, Neutral y Genocida están presentes, ofreciendo giros argumentales crudos e impactantes\n\nMecánicas pulidas: Introduce el disparo con el alma amarilla de una manera más fluida que la entrega original.\n\nDificultad elevada: Los jefes finales exigen excelentes reflejos, superando el reto promedio del Undertale clásico.\n\nSistema flexible: Si la frustración aparece, incluye opciones de accesibilidad útiles como el Modo Fácil\n\nPixel art nostálgico: Mantiene el encanto retro mientras añade escenarios nuevos y detallados.\n\nBanda sonora espectacular: Los temas de los jefes capturan a la perfección la energía y emotividad de la obra original de Toby Fox\n\nPersonajes entrañables: El elenco secundario tiene carisma propio y se gana rápido el corazón del jugador.\n\nGran duración: Completar todas las rutas e historias secundarias puede tomar fácilmente entre 8 y 23 horas de juego.\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nLa descarga incluye un NSP que se guardará en la carpeta Descargas en la raíz de tu sd, después de descargar, instala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta descargas en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo\n\n(Después de la instalación y que el juego funcione puedes recuperar espacio usando la opcion borrar desde este programa, o puedes borrar manualmente el nsp que esta en la carpeta descargas)",
+      "url": "https://raw.githubusercontent.com/tortugasdoradas-arch/Beta/main",
+      "zip_url": "https://github.com/tortugasdoradas-arch/Beta/releases/download/Archivos/TALERED.zip",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "none",
+      "filesize": 270021,
+      "extracted": 270092,
+      "updated": "20/05/2026",
+      "screens": 5
     }
   ]
 }
