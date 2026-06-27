@@ -68,6 +68,38 @@
       "screens": 4
     },
     {
+      "name": "UNDERESP",
+      "title": "Undertale",
+      "author": "UnderProjectNX",
+      "version": "1.0.5",
+      "description": "Traducción Español",
+      "details": "Parche al español,  la comunidad hispana ha creado excelentes parches de traducción no oficiales (fan-translations) de altísima calidad que adaptan perfectamente la experiencia (debes tener el juego previamente instalado en tu consola)\n\nUndertale es una obra maestra de los videojuegos independientes que revoluciona el género de los RPG\n\nCreado casi en su totalidad por el desarrollador Toby Fox, el juego destaca por su sistema de combate moral, sus personajes carismáticos y una banda sonora inolvidable\n\nEl argumento nos pone en la piel de un niño humano que cae accidentalmente al Subsuelo. Este es una región aislada por una barrera mágica donde habitan los monstruos tras perder una antigua guerra.\n\n El objetivo principal es regresar a la superficie. Lo que parece una premisa clásica se convierte en un viaje emocional profundo\n\nCombate híbrido: Los encuentros mezclan turnos clásicos con mecánicas de esquivar ataques en tiempo real al estilo bullet hell\n\nActuar o luchar: Puedes elegir atacar a tus enemigos de forma tradicional o interactuar con ellos mediante el diálogo para resolver el conflicto de forma pacífica\n\nRutas argumentales: Tus decisiones dividen la historia principalmente en tres vías: Pacifista, Genocida y Neutral\n\nLa memoria del juego: El juego rompe la cuarta pared constantemente. El Subsuelo recuerda tus acciones previas incluso si decides borrar tu partida o cargar un archivo guardado\n\nVisuales retro: Utiliza un estilo pixel art de 8 bits muy sencillo inspirado en clásicos como EarthBound. Aunque los escenarios son simples, los rostros y animaciones de los enemigos rebosan expresividad\n\nBanda sonora magistral: La música en formato MIDI compuesta por Toby Fox es considerada una obra de arte. Cada tema se adapta perfectamente a la tensión dramática o cómica del momento\n\nDESCARGA:\nEsta traducción se descargará directo a tu carpeta contents, no necesitas hacer nada mas\n\nINSTALACIÓN:\nDebes tener el juego Undertale instalado, la traducción se aplicara automáticamente al descargar, solo abre el juego y prueba\n\nNOTA:\nSi por alguna razón quieres eliminar la traducción, puedes usar el boton BORRAR de este programa y automáticamente se eliminara, o puedes borrar manualmente entrando a tu carpeta contents y borra la carpeta 010080B00AD66000",
+      "url": "https://raw.githubusercontent.com/tortugasdoradas-arch/Beta/main",
+      "license": "Español",
+      "category": "Traducciones",
+      "binary": "none",
+      "filesize": 44514,
+      "extracted": 75495,
+      "updated": "20/05/2026",
+      "screens": 5
+    },
+    {
+      "name": "CAVE",
+      "title": "Cave Story+",
+      "author": "edwarly999plus ",
+      "version": "2.0.0",
+      "description": "Traducción Español",
+      "details": "Parche al español, Si quieres jugar el título original en español, la comunidad hispanohablante se ha encargado de localizarlo (debes tener el juego previamente instalado en tu consola)\n\nCave Story+ es una obra maestra atemporal y la versión definitiva del legendario juego creado por Daisuke Pixel Amaya\n\nEste título no solo rinde un homenaje perfecto a los clásicos de la era de los 8 y 16 bits, sino que se consolida como uno de los pilares fundamentales en la historia del desarrollo independiente moderno\n\nEl protagonista: Controlas a Quote, un pequeño robot humanoide que despierta con amnesia en una misteriosa cueva\n\nEl conflicto: Descubres una isla flotante habitada por los Mimigas, una pacífica raza de criaturas con aspecto de conejo.\n\nEl villano: Un despiadado científico conocido como El Doctor secuestra a los Mimigas para obligarlos a consumir flores rojas mutogénicas y usarlos como ejército.\n\nNarrativa madura: Aunque la estética parece infantil, la trama es trágica, oscura y profunda\n\nConsecuencias reales: Tus decisiones desbloquean rutas ocultas y determinan cuál de los tres finales distintos obtendrás.\n\nHíbrido de acción: Combina de forma equilibrada las plataformas de precisión con disparos frenéticos.\n\nDiseño semi-Metroidvania: La progresión es más lineal que en un Metroid tradicional, pero exige explorar niveles interconectados.\n\nCurva de dificultad justa pero exigente: Los jefes finales requieren aprender patrones estrictos de la vieja escuela\n\nDESCARGA:\nEsta traducción se descargará directo a tu carpeta contents, no necesitas hacer nada mas\n\nINSTALACIÓN:\nDebes tener el juego Cave Story+ instalado, la traducción se aplicara automáticamente al descargar, solo abre el juego y prueba\n\nNOTA:\nSi por alguna razón quieres eliminar la traducción, puedes usar el boton BORRAR de este programa y automáticamente se eliminara, o puedes borrar manualmente entrando a tu carpeta contents y borra la carpeta 0100A55003B5C000",
+      "url": "https://raw.githubusercontent.com/tortugasdoradas-arch/Beta/main",
+      "license": "Español",
+      "category": "Traducciones",
+      "binary": "none",
+      "filesize": 346,
+      "extracted": 477,
+      "updated": "20/05/2026",
+      "screens": 5
+    },
+    {
       "name": "HORROR",
       "title": "World of Horror",
       "author": "Luigi - ZeyroGames",
